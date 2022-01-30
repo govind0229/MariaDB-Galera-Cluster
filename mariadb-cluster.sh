@@ -1,6 +1,6 @@
 #!/bin/bash
 #########################################################################
-#           Configure Galera Mariadb cluster setup script               #
+# Configure Galera Mariadb cluster setup script for RHEL,Centos,Fedra   #
 #               Govind Sharma <govind.sharma@live.com>                  #
 #                    GNU GENERAL PUBLIC LICENSE                         #
 #                       Version 3, 29 June 2007                         #
